@@ -13,4 +13,4 @@
 
 <h4 align="left">Not necessarily up to date, but I try my best</h4>
 <h4 align="left">Link : <a href="https://valentinthirioncv.netlify.app/indexenglish" target="_blank">My Online CV</a></h4>
-<h4 align="left">Last updated : 26/02/2022</h4>
+<h4 align="left">Last updated : 28/06/2022</h4>
