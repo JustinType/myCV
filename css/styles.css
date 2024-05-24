@@ -74,8 +74,8 @@ body {
 }
 
 #drapeau {
-  height: 60px;
-  width: 100px;
+  height: 45px;
+  width: 80px;
   border-radius: 8%;
   filter: brightness(40%);
   -webkit-filter: brightness(40%);
@@ -2082,8 +2082,8 @@ pre code {
 }
 @media (max-width: 991.98px) {
   #drapeau {
-    height: 35px;
-    width: 60px;
+    height: 30px;
+    width: 50px;
   }
 
   .dev-icons {
